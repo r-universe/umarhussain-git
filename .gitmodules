@@ -8,3 +8,6 @@
 [submodule "dentomedical"]
 	path = dentomedical
 	url = https://github.com/umarhussain-git/dentomedical
+[submodule "pubrplot"]
+	path = pubrplot
+	url = https://github.com/umarhussain-git/pubrplot
