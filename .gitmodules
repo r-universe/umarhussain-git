@@ -5,6 +5,9 @@
 [submodule "DOIcreator"]
 	path = DOIcreator
 	url = https://github.com/umarhussain-git/doicreator
+[submodule "contourforest"]
+	path = contourforest
+	url = https://github.com/umarhussain-git/contourforest
 [submodule "dentomedical"]
 	path = dentomedical
 	url = https://github.com/umarhussain-git/dentomedical
