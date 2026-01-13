@@ -8,6 +8,9 @@
 [submodule "contourforest"]
 	path = contourforest
 	url = https://github.com/umarhussain-git/contourforest
+[submodule "correctref"]
+	path = correctref
+	url = https://github.com/cran/correctref
 [submodule "dentomedical"]
 	path = dentomedical
 	url = https://github.com/umarhussain-git/dentomedical
